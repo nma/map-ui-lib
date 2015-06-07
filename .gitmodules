@@ -1,0 +1,15 @@
+[submodule "src/js/libs/google-maps-api-addons"]
+	path = src/js/libs/google-maps-api-addons
+	url = https://github.com/marmat/google-maps-api-addons.git
+[submodule "src/js/libs/MarkerClusterer"]
+	path = src/js/libs/MarkerClusterer
+	url = https://github.com/plank/MarkerClusterer.git
+[submodule "src/js/resources/world.geo.json"]
+	path = src/js/resources/world.geo.json
+	url = https://github.com/johan/world.geo.json.git
+[submodule "src/js/libs/js-map-label"]
+	path = src/js/libs/js-map-label
+	url = https://github.com/googlemaps/js-map-label.git
+[submodule "src/js/libs/js-info-bubble"]
+	path = src/js/libs/js-info-bubble
+	url = https://github.com/googlemaps/js-info-bubble.git
